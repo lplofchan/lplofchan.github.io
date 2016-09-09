@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Leah Plofchan&#39;s Personal Site</title>
-    <link>https://lplofchan.github.io/</link>
-    <description>Recent content on Leah Plofchan&#39;s Personal Site</description>
+    <title>Blogs on Leah Plofchan&#39;s Personal Site</title>
+    <link>https://lplofchan.github.io/blog/</link>
+    <description>Recent content in Blogs on Leah Plofchan&#39;s Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Aug 2016 10:15:29 +0300</lastBuildDate>
-    <atom:link href="https://lplofchan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lplofchan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog entry</title>
@@ -1765,45 +1765,6 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
 
 &lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://lplofchan.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lplofchan.github.io/about/</guid>
-      <description>&lt;p&gt;My name is Leah Plofchan and I am currently studying Computer Science at the
-University of Notre Dame.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://lplofchan.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lplofchan.github.io/contact/</guid>
-      <description>&lt;p&gt;Contact me at lplofcha@nd.edu&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>https://lplofchan.github.io/works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lplofchan.github.io/works/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What I Can Do</title>
-      <link>https://lplofchan.github.io/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lplofchan.github.io/skills/</guid>
-      <description></description>
     </item>
     
   </channel>
