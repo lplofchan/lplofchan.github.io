@@ -10,10 +10,10 @@
     
     <item>
       <title>About Me</title>
-      <link>https://lplofchan.github.io/about/</link>
+      <link>https://lplofchan.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lplofchan.github.io/about/</guid>
+      <guid>https://lplofchan.github.io/blog/</guid>
       <description>&lt;p&gt;My name is Leah Plofchan and I am currently studying Computer Science at the
 University of Notre Dame.&lt;/p&gt;
 </description>
@@ -21,10 +21,10 @@ University of Notre Dame.&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>https://lplofchan.github.io/blog/</link>
+      <link>https://lplofchan.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lplofchan.github.io/blog/</guid>
+      <guid>https://lplofchan.github.io/</guid>
       <description>&lt;p&gt;My name is Leah Plofchan and I am currently studying Computer Science at the
 University of Notre Dame.&lt;/p&gt;
 </description>
