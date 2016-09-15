@@ -55,8 +55,6 @@ created a program that make an HTTP client and server in Python using sockets
 that would communicate through low-level system calls.  Basically, we built a
 client that could make requests to a server that we created that was able to
 support directory listings, static files, and CGI scripts.&lt;/p&gt;
-
-&lt;p&gt;This project taught me a lot about programming in Python blah blah blah&lt;/p&gt;
 </description>
     </item>
     
