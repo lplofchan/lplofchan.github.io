@@ -82,5 +82,24 @@ simultaneously so that the passwords could be cracked more efficiently.&lt;/p&gt
 </description>
     </item>
     
+    <item>
+      <title>Canvas: Art Tools Program</title>
+      <link>https://lplofchan.github.io/project/canvas/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://lplofchan.github.io/project/canvas/</guid>
+      <description>&lt;p&gt;As part of my Fundamentals of Computing I final project, my team and I decided
+to essentially recreate the Microsoft application called paint.  Using C
+programming, we created a GUI that allows the user to creatively explore on a
+blank canvas.  There is a sidebar on the GUI that allows the user to choose
+various painting tools and colors.&lt;/p&gt;
+
+&lt;p&gt;As the final project of my first real Computer Science course, this was the
+first time I actually used the skills that I learned in class to create
+something new.  While this project seems quite simple to me now, it was the
+first time I began to see what my coding could begin to accomplish.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
