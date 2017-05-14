@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Leah Plofchan</title>
+    <link>https://lplofchan.github.io/home/index.xml</link>
+    <description>Recent content in Homes on Leah Plofchan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Leah Plofchan</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lplofchan.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://lplofchan.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lplofchan.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;p&gt;My name is Leah Plofchan and I am pursuing a Bachelor of Science
+degree in Computer Science through the College of Engineering at the University
+of Notre Dame.  I am interested in software development in cyber security and am
+looking for an experience to apply my skills.&lt;/p&gt;
+
+&lt;p&gt;My decision to study Computer Science was not a typical or planned decision.  I
+entered Notre Dame in the College of Engineering as an undeclared freshman with
+absolutely no interest/background in Computer Science. I really never even
+thought about Computer Science until the spring of my Freshman year, when we did
+small coding assignments in my Intro to Engineering class.  This small bit of
+exposure to Computer Science sparked a serious interest that caused
+me to start asking questions and talking to other students/professors. With
+barely any experience, I decided to take the risk and change my major to
+Computer Science and haven&amp;rsquo;t looked back since.&lt;/p&gt;
+
+&lt;p&gt;Now, about two years later, I know that I made the best decision. I am
+constantly learning new things and being amazed at all of the cool things that
+people are creating in this field.  With this major, I have had the opportunity
+to experience awesome programs like the University of Illinois
+Urbana-Champagne&amp;rsquo;s HackIllinois hackathon and ThinkChicago, a program aimed at
+introducing students to Chicago&amp;rsquo;s growing tech scene.  I can&amp;rsquo;t wait to continue
+learning and begin applying my skills.&lt;/p&gt;
+
+&lt;p&gt;Relevant coursework includes: Data Structures and Algorithms, Networks and
+Internet Systems, Operating Systems, Theory of Computing, Processor Design, Basic UNIX, Logic Design, Social Sensing and Cyber Physical Systems, Fundamentals of
+Computing I&amp;amp;II, Leadership and Management&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
